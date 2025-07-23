@@ -22,6 +22,19 @@ langgraph==0.5.3
 langchain-huggingface==0.3.0
 langchain-chroma==0.2.4
 
+# Tools & Integrations
+wikipedia==1.4.0
+yfinance==0.2.64
+google-search-results==2.4.2        
+holidays==0.75                        
+beautifulsoup4==4.13.4               
+requests==2.32.4
+httpx==0.28.1
+
+# Data Handling
+pandas==2.3.0
+numpy==2.0.2
+
 # Vector DB & Embeddings
 chromadb==1.0.13
 sentence-transformers==4.1.0
