@@ -1,0 +1,32 @@
+# Core app requirements
+streamlit
+fastapi
+uvicorn
+requests
+python-dotenv
+python-multipart
+pypdf
+docx2txt
+
+# LangChain ecosystem (your local versions)
+langchain==0.3.26
+langchain-core==0.3.66
+langchain-community==0.3.26
+langchain-openai==0.3.24
+langchain-text-splitters==0.3.8
+
+# Integrations
+langchain-huggingface==0.3.0
+langchain-chroma==0.2.4
+
+# Vector DB & Embeddings
+chromadb==1.0.13
+sentence-transformers==4.1.0
+tiktoken==0.9.0
+
+# GitHub model support
+openai==1.90.0
+
+# Data model validation
+pydantic==2.11.7
+pydantic-settings==2.10.1
