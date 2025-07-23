@@ -186,8 +186,6 @@ ZeeAgentX/
 │   │       └── state_model.py
 │   ├── utils/
 │   │   ├── db_utils.py
-│   │   ├── auth.py
-│   │   └── model_enums.py
 │
 ├── frontend/
 │   ├── components/
